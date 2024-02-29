@@ -18,7 +18,7 @@
 }
 
 .call-to-action{
-    background-color: #004AAD;
+    background-color: #00f;
     color: #fff;
 }
 
@@ -60,7 +60,7 @@
 }
 
 .highlight-blue{
-    color: #004AAD;
+    color: #00f;
 }
 
 section h2{
@@ -137,7 +137,7 @@ section h2{
 }
 
 .carousel-indicators .active{
-    background-color: #004AAD;
+    background-color: #00f;
 }
 
 #process .card{
@@ -164,7 +164,7 @@ section h2{
     font-size: 2rem;
     color: #fff;
     text-align: center;
-    background: #004AAD;
+    background: #00f;
 }
 
 #process .card .card-title{
