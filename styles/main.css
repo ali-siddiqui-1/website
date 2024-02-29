@@ -89,10 +89,6 @@ section h2{
     background: #000;
 }
 
-#about .card .card-title{
-    text-transform: capitalize;
-}
-
 #about .card .card-body{
     text-align: center;
 }
