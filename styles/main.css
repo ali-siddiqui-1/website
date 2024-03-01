@@ -67,6 +67,19 @@ section h2{
     font-weight: bold;
 }
 
+#brands .img-fluid{
+    max-width: 200px;
+}
+
+.img-div{
+    display: flex;
+    justify-content: center;
+}
+
+.brand-images-row{
+    padding: 0 10vw;
+}
+
 #about .card{
     margin: 0 auto;
     background-color: #cce5eb;
